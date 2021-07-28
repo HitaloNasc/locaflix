@@ -11,3 +11,5 @@ A proposta inicial foi recriar a interface da Netflix, contudo, após finalizaç
 - HTML 5
 - CSS 3
 - Javascript
+
+Observação: Esta aplicação foi feita usando a extensão Live Server do VS Code.
